@@ -10,3 +10,5 @@ Permite crear grraficas con datos solo positivos, negativos y datos mixtos
 Este algoritmo tiene aplicaciones mucho mas complejas como estas 
 
 ![image](https://github.com/MarcosCruzP/Graficas-lienales_en_fpdf/assets/87499143/030470fc-745f-4ca7-a96b-b03768b97074)
+
+![image](https://github.com/MarcosCruzP/Graficas-lienales_en_fpdf/assets/87499143/0f8574d3-f932-4fc2-b880-64272a8ea5a6)
